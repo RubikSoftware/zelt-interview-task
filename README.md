@@ -16,12 +16,16 @@ During this test, you will be asked to perform a number of coding tasks. Feel fr
 3. **Task**:
    - **Task 1: Code Review**
      - Review the provided code (version 1). 
+     - Create a branch named v1-{yourname}.
      - Identify and document flaws, areas for improvement, and any potential bugs.
      - Understand the overall purpose of the code.
+     - Commit your comments to the branch and create a PR.
 
    - **Task 2: Code Improvement**
      - Based on your findings from the code review, create a newer, better version (version 2), incorporating all your learnings from the first task.
+     - Create a branch named v2-{yourname}.
      - Make the code more efficient, less convoluted, and better structured.
+     - Commit your changes to the branch and create a PR.
 
 4. **Code Review Focus Areas**:
    - Code readability and maintainability.
