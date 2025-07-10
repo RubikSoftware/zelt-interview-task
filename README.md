@@ -18,12 +18,10 @@ During this test, you will be asked to perform a number of coding tasks. Feel fr
      - Review the provided code (version 1). 
      - Identify and document flaws, areas for improvement, and any potential bugs.
      - Understand the overall purpose of the code.
-     - Commit your comments to the branch and create a PR.
 
    - **Task 2: Code Improvement**
      - Based on your findings from the code review, create a newer, better version (version 2), incorporating all your learnings from the first task.
      - Make the code more efficient, less convoluted, and better structured.
-     - Commit your changes to the branch and create a PR.
 
 4. **Code Review Focus Areas**:
    - Code readability and maintainability.
